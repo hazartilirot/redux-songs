@@ -2,6 +2,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/.idea
+/.cache
+/.git
 
 # testing
 /coverage
